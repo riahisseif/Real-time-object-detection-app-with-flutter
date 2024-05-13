@@ -14,3 +14,9 @@ Flutter enables you to develop mobile, web and desktop apps using the same codeb
 
 # The Interfaces
 ![App Design Plan Brainstorm Classroom Worksheet (1)](https://github.com/riahisseif/Real-time-object-detection-app-with-flutter/assets/113670558/36579731-3023-4050-8b9e-55f163192665)
+
+# Vedioo Explain the Application
+https://github.com/riahisseif/Real-time-object-detection-app-with-flutter/assets/113670558/0f489bd8-2ee2-40ad-8d48-e534d8404f9c
+
+# Final rapport
+[rapport Application.pdf](https://github.com/riahisseif/Real-time-object-detection-app-with-flutter/files/15291455/rapport.Application.pdf)
