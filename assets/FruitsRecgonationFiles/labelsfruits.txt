@@ -1,0 +1,10 @@
+apples / pommes / تفاح
+avocados / avocates / افوكادو
+bananas / bananes / موز
+grapes / raisins / العنب
+guava  / goyave / جوافة
+limes / citrons / الليمون
+mangos / mangues / المانجو
+oranges / organges / البرتقال
+pineapples / Ananas / أناناس
+watermelons / pastèques / البطيخ
